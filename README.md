@@ -1,1 +1,1 @@
-this is fork test.
+this is fork test with conflict
